@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "siteName": "Nekor Partners",
+    "defaultTitle": "Nekor Partners — IT freelancers, placed directly",
+    "defaultDescription": "Nekor Partners places independent IT specialists directly with companies. One contract between client and freelancer, one placement fee, no running margin."
+  },
+  "a11y": { "skipToContent": "Skip to content" },
+  "nav": {
+    "home": "Home",
+    "primary": "Main navigation",
+    "language": "Choose language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "findExperts": "Find experts",
+    "findProjects": "Find projects",
+    "about": "About",
+    "blog": "Journal",
+    "careers": "Careers",
+    "contact": "Contact",
+    "imprint": "Imprint",
+    "privacy": "Privacy"
+  },
+  "footer": {
+    "claim": "Placement of independent IT specialists. Contracted directly, billed transparently.",
+    "services": "Services",
+    "company": "Company",
+    "legal": "Legal",
+    "linkedin": "Nekor Partners on LinkedIn",
+    "linkedinUrl": "https://www.linkedin.com/company/nekor-partners",
+    "email": "hello@nekor-partners.com",
+    "emailLabel": "Write an email",
+    "copyright": "© {year} Nekor Partners",
+    "address": "Frankfurt am Main, Germany"
+  },
+  "home": {
+    "meta": {
+      "title": "IT freelancers, placed directly",
+      "description": "We find independent IT specialists for specific project needs. Client and freelancer sign directly — we are paid once for the introduction."
+    },
+    "hero": {
+      "eyebrow": "IT and engineering freelancing",
+      "title": "Two sides. <accent>One project.</accent>",
+      "lead": "We bring companies and independent IT specialists together directly. The project contract runs between the two of you — no middleman invoice, no margin on every hour.",
+      "clients": {
+        "eyebrow": "For companies",
+        "title": "You need reinforcement",
+        "body": "Describe the requirement, receive vetted profiles, contract directly. You pay once, on a successful placement.",
+        "cta": "Find experts"
+      },
+      "candidates": {
+        "eyebrow": "For freelancers",
+        "title": "You are looking for a project",
+        "body": "Your profile only goes out once you release it. You negotiate your own rate and invoice the client directly.",
+        "cta": "Find projects"
+      }
+    },
+    "stats": {
+      "eyebrow": "How we work",
+      "note": "Not vanity metrics, but the rules we hold ourselves to. They are written into our placement agreement.",
+      "items": {
+        "shortlist": { "value": "48", "unit": "h", "label": "to a first shortlist after the intake call" },
+        "candidates": { "value": "3", "unit": "", "label": "profiles per requirement instead of a flood of CVs" },
+        "upfront": { "value": "0", "unit": "€", "label": "cost as long as no placement happens" },
+        "documented": { "value": "100", "unit": "%", "label": "documented releases before a profile reaches a client" }
+      }
+    },
+    "values": {
+      "eyebrow": "Foundation",
+      "title": "Three things that matter",
+      "lead": "Placement is not a volume business. What counts is whether the profile fits the task, whether the setup is legally sound, and whether it arrives in time.",
+      "items": {
+        "technology": {
+          "title": "Technology",
+          "body": "We speak the language of the role. A Kubernetes requirement is answered with a conversation about your stack, not a keyword match."
+        },
+        "competence": {
+          "title": "Competence",
+          "body": "Every profile is technically reviewed and personally interviewed before it is presented. Availability, rate and references are confirmed, not estimated."
+        },
+        "speed": {
+          "title": "Speed",
+          "body": "A properly qualified requirement saves more time than any database. That is why we start with a structured conversation, not a search query."
+        }
+      }
+    },
+    "teaser": {
+      "eyebrow": "About us",
+      "title": "Small, direct, reachable",
+      "body": "Nekor Partners is an owner-run placement firm based in Frankfurt. You talk to the founders, not to an account team. We work with few clients at a time, because quality in placement does not scale like a newsletter.",
+      "cta": "More about Nekor"
+    },
+    "journal": { "eyebrow": "Journal", "title": "From practice", "cta": "All articles" }
+  },
+  "clients": {
+    "meta": {
+      "title": "Find experts",
+      "description": "Vetted IT freelancers for specific project needs. Contracted directly, one placement fee, no running cost."
+    },
+    "hero": {
+      "eyebrow": "For companies",
+      "title": "Freelancers you contract yourself",
+      "lead": "You describe the requirement, we deliver a short, vetted selection. You sign the project contract directly with the freelancer — we are paid once, on successful placement."
+    },
+    "models": {
+      "eyebrow": "Models",
+      "title": "Three ways to work together",
+      "lead": "Which model fits depends on whether you can and want to contract with self-employed specialists yourself.",
+      "benefitsLabel": "What speaks for it",
+      "items": {
+        "direct": {
+          "title": "Direct placement",
+          "status": "Available",
+          "description": "We find and qualify the right freelancer. Contract and invoicing run directly between you and them.",
+          "benefits": [
+            "A single success fee instead of a running margin",
+            "No cost if no placement comes about",
+            "You negotiate rate and terms yourself",
+            "Full transparency on what the freelancer receives"
+          ]
+        },
+        "contracting": {
+          "title": "Contracting",
+          "status": "In preparation",
+          "description": "You contract Nekor, Nekor contracts the freelancer. One counterparty, one invoice, consolidated billing.",
+          "benefits": [
+            "Only one supplier in your procurement process",
+            "Useful with framework agreements and vendor lists",
+            "Timesheets and billing run through us",
+            "No employee leasing — services and deliverables only"
+          ]
+        },
+        "permanent": {
+          "title": "Permanent placement",
+          "status": "On request",
+          "description": "When a project need turns into a permanent role, we place for permanent positions too.",
+          "benefits": [
+            "The same qualification process as in project work",
+            "Success fee, due on signature",
+            "Candidates presented only after explicit release"
+          ]
+        }
+      }
+    },
+    "skills": {
+      "eyebrow": "Focus areas",
+      "title": "Where we search",
+      "lead": "Our network sits in cloud, platform, data and security. If your requirement falls outside that, we say so instead of sending you any profile at hand.",
+      "items": [
+        "Kubernetes", "AWS", "Azure", "Terraform", "Platform Engineering", "Java", "Spring Boot", ".NET", "TypeScript", "React", "Python", "Data Engineering", "Databricks", "Snowflake", "SAP", "IAM", "ISO 27001", "Penetration Testing", "SRE", "CI/CD"
+      ]
+    },
+    "advantages": {
+      "items": {
+        "protected": {
+          "title": "Terms first",
+          "body": "You receive an identifiable profile only once our placement terms are confirmed. That protects both sides from misunderstandings about the fee."
+        },
+        "shortlist": {
+          "title": "Three, not thirty",
+          "body": "We send a selection, not a database query. Every profile has been spoken to, is available, and knows your requirement."
+        },
+        "documented": {
+          "title": "Documented end to end",
+          "body": "Every candidate release and every introduction is recorded with client, project and timestamp — clean for you, clean for us."
+        }
+      }
+    },
+    "testimonials": {
+      "previous": "Previous reference",
+      "next": "Next reference",
+      "items": {
+        "one": { "quote": "Placeholder: a client quote about working together goes here.", "name": "Add reference", "role": "Placeholder — replace or remove this section before launch" },
+        "two": { "quote": "Placeholder: a client quote about time to placement goes here.", "name": "Add reference", "role": "Placeholder — replace or remove this section before launch" },
+        "three": { "quote": "Placeholder: a client quote about profile quality goes here.", "name": "Add reference", "role": "Placeholder — replace or remove this section before launch" }
+      }
+    },
+    "cta": {
+      "title": "Have a concrete requirement?",
+      "body": "Twenty minutes are enough to settle role, start and budget. After that you know whether we can deliver.",
+      "action": "Describe your need"
+    },
+    "journal": { "eyebrow": "Journal", "title": "Background on the model" }
+  },
+  "candidates": {
+    "meta": {
+      "title": "Find projects",
+      "description": "Projects for independent IT specialists. Your profile only goes out with your release, and you negotiate your rate directly with the client."
+    },
+    "hero": {
+      "eyebrow": "For freelancers",
+      "title": "Your profile goes out only when you release it",
+      "lead": "No blind submissions, no rate agreed behind your back. We name you only once you know the client and the project and have agreed."
+    },
+    "models": {
+      "eyebrow": "Models",
+      "title": "How collaboration can look",
+      "lead": "In most cases we place you directly with the client. You stay the contracting party; we step back after the introduction.",
+      "benefitsLabel": "What that means for you",
+      "items": {
+        "direct": {
+          "title": "Direct placement",
+          "status": "Available",
+          "description": "You sign the project contract directly with the client. Our fee is paid by the client, not by you.",
+          "benefits": [
+            "Your rate reaches you in full",
+            "You invoice the client directly",
+            "No placement fee on your side",
+            "Direct line to the decision maker from the interview onwards"
+          ]
+        },
+        "contracting": {
+          "title": "Contracting",
+          "status": "In preparation",
+          "description": "Nekor is your counterparty and invoices the client. For you that means one fixed contact for billing and payment.",
+          "benefits": [
+            "One billing address, even across several assignments",
+            "Clear payment terms, independent of the end client",
+            "No employee leasing",
+            "Timesheet process handled by us"
+          ]
+        },
+        "permanent": {
+          "title": "Permanent role",
+          "status": "On request",
+          "description": "If you are considering a move out of self-employment, we keep suitable roles on hand.",
+          "benefits": [
+            "Confidential — your current client hears nothing",
+            "Introductions only to companies you release",
+            "Support through to the offer"
+          ]
+        }
+      }
+    },
+    "process": {
+      "eyebrow": "Process",
+      "title": "Four steps to a project",
+      "items": {
+        "intake": { "title": "Getting to know you", "body": "A conversation about your focus, your rate, your availability and the remote share you need." },
+        "match": { "title": "Matching", "body": "We get in touch only when a requirement genuinely fits. You are told role, industry, location and terms up front." },
+        "release": { "title": "Release", "body": "You decide whether we may present you to this client. No profile goes out without your documented consent." },
+        "interview": { "title": "Interview and contract", "body": "We coordinate the scheduling and support the negotiation. You sign directly with the client." }
+      }
+    },
+    "skills": {
+      "eyebrow": "Profiles",
+      "title": "Who we place",
+      "lead": "If your focus appears here, a conversation is worth it — even if you are currently on a project.",
+      "items": [
+        "DevOps", "Cloud Architecture", "Kubernetes", "Terraform", "Java", "TypeScript", "React", "Python", "Data Engineering", "MLOps", "SAP", "Security Engineering", "IAM", "ISO 27001", "Networking", "Embedded", "QA Automation", "Project Management", "Business Analysis", "Interim CTO"
+      ]
+    },
+    "testimonials": {
+      "previous": "Previous voice",
+      "next": "Next voice",
+      "items": {
+        "one": { "quote": "Placeholder: a quote from a placed freelancer goes here.", "name": "Add reference", "role": "Placeholder — replace or remove this section before launch" },
+        "two": { "quote": "Placeholder: a quote about the placement process goes here.", "name": "Add reference", "role": "Placeholder — replace or remove this section before launch" },
+        "three": { "quote": "Placeholder: a quote about the project itself goes here.", "name": "Add reference", "role": "Placeholder — replace or remove this section before launch" }
+      }
+    },
+    "cta": {
+      "title": "Register your profile",
+      "body": "Send us your focus, availability and target rate. We get in touch when something fits — and not more often.",
+      "action": "Send profile"
+    }
+  },
+  "about": {
+    "meta": { "title": "About us", "description": "Nekor Partners is an owner-run placement firm for IT freelancers based in Frankfurt am Main." },
+    "hero": {
+      "eyebrow": "About us",
+      "title": "Placement without a layer in between",
+      "lead": "We founded Nekor because there is too often a layer between companies and freelancers that mainly finances itself."
+    },
+    "story": {
+      "eyebrow": "Background",
+      "title": "Why we exist",
+      "paragraphOne": "In the classic model the provider earns on every billed hour, for the entire duration of the project. For short assignments that is defensible; over twelve months it is expensive, and neither side usually knows how much margin sits in between.",
+      "paragraphTwo": "We do it the other way round: we are paid once for what we actually do — finding the right person. After that, client and freelancer work together directly. That caps our business and forces us to be good at the placement itself.",
+      "timeline": {
+        "founded": { "when": "2026", "what": "Nekor Partners founded in Frankfurt am Main, focused on direct placement." },
+        "network": { "when": "Ongoing", "what": "Building a network of cloud, data and security specialists across the German-speaking market." },
+        "next": { "when": "Next step", "what": "Contracting model, once contracts, status assessment, insurance and billing are fully in place." }
+      }
+    },
+    "principles": {
+      "eyebrow": "Principles",
+      "title": "What we hold to",
+      "items": {
+        "direct": { "title": "Direct rather than in between", "body": "Where a direct engagement is possible, we recommend it — even when another model would earn us more." },
+        "consent": { "title": "Nothing without release", "body": "Profiles go out only with the freelancer's documented consent, for a named client and a named project." },
+        "transparency": { "title": "Open numbers", "body": "Both sides know what we receive for the placement and when that fee falls due. No hidden mark-ups." }
+      }
+    },
+    "team": {
+      "eyebrow": "Team",
+      "title": "You talk to the founders",
+      "lead": "Nekor is run by two founders who each handle the full process, from intake to signature. Nobody hands you off to a junior team after the first call.",
+      "cta": "See open roles"
+    }
+  },
+  "careers": {
+    "meta": { "title": "Careers", "description": "Open roles at Nekor Partners in Frankfurt am Main and remote." },
+    "hero": {
+      "eyebrow": "Careers",
+      "title": "Working with us",
+      "lead": "We are early, small and free of corporate structure. Whoever joins now shapes the process instead of just executing it."
+    },
+    "openings": {
+      "eyebrow": "Open roles",
+      "title": "Currently advertised",
+      "empty": "No roles are advertised right now. We still read speculative applications.",
+      "apply": "Apply",
+      "speculative": "Nothing fitting? Tell us what you would bring — speculative applications are explicitly welcome.",
+      "types": { "fulltime": "Full time", "parttime": "Part time", "werkstudent": "Working student" }
+    }
+  },
+  "blog": {
+    "meta": { "title": "Journal", "description": "Articles on freelancing, contract models and compliance in IT project work." },
+    "hero": {
+      "eyebrow": "Journal",
+      "title": "What practice teaches us",
+      "lead": "Short pieces on contract models, employment status and staffing processes — written for people who actually work with them."
+    },
+    "all": "All",
+    "filterLabel": "Filter by category",
+    "empty": "There are no articles in this category yet.",
+    "readMore": "Read more",
+    "readingTime": "{minutes} min read",
+    "backToOverview": "Back to overview",
+    "categories": { "market": "Market", "compliance": "Compliance", "hiring": "Staffing" }
+  },
+  "contact": {
+    "meta": { "title": "Contact", "description": "Describe a requirement or register your profile — Nekor Partners, Frankfurt am Main." },
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Tell us what it is about",
+      "lead": "Whether it is a project need or your own profile: a short message is enough. We usually reply the same working day."
+    },
+    "form": {
+      "title": "Send a message",
+      "name": "Name",
+      "email": "Email",
+      "company": "Company (optional)",
+      "message": "Message",
+      "messagePlaceholder": "Role, start, duration, workload, remote share — the more concrete, the faster we can answer.",
+      "privacy": "I have read the privacy policy and agree that my details will be stored in order to process my enquiry.",
+      "submit": "Send message",
+      "sending": "Sending",
+      "success": "Thank you, your message arrived. We will be in touch shortly.",
+      "error": "Sending did not work. Please try again or write directly to hello@nekor-partners.com.",
+      "errors": {
+        "nameRequired": "Please enter your name.",
+        "emailInvalid": "Please enter a valid email address.",
+        "messageTooShort": "Please describe your enquiry in at least 20 characters.",
+        "privacyRequired": "Without your consent we cannot process the enquiry."
+      }
+    },
+    "details": {
+      "officeLabel": "Location",
+      "address": "Nekor Partners\n[Street and number]\n60311 Frankfurt am Main\nGermany",
+      "reachLabel": "Reach us directly",
+      "email": "hello@nekor-partners.com",
+      "phone": "+49 69 000000",
+      "phoneHref": "+4969000000",
+      "responseLabel": "Response time",
+      "response": "On working days we usually answer within four hours, at the latest on the next working day."
+    }
+  },
+  "imprint": {
+    "meta": { "title": "Imprint", "description": "Legal information for Nekor Partners." },
+    "eyebrow": "Legal",
+    "title": "Imprint",
+    "updated": "Draft — have this reviewed by a lawyer before publishing.",
+    "sections": [
+      { "heading": "Information pursuant to § 5 DDG", "body": "Nekor Partners [add legal form]\n[Street and number]\n60311 Frankfurt am Main\nGermany" },
+      { "heading": "Represented by", "body": "[Add the names of the authorised partners]" },
+      { "heading": "Contact", "body": "Phone: [add number]\nEmail: hello@nekor-partners.com" },
+      { "heading": "Register entry and VAT ID", "body": "[Registry court and number, if applicable]\nVAT identification number pursuant to § 27 a UStG: [add ID]" },
+      { "heading": "Editorially responsible", "body": "[Add name and address of the responsible person]" },
+      { "heading": "Dispute resolution", "body": "We are neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board." }
+    ]
+  },
+  "privacy": {
+    "meta": { "title": "Privacy policy", "description": "Information on the processing of personal data at Nekor Partners." },
+    "eyebrow": "Legal",
+    "title": "Privacy policy",
+    "updated": "Draft — this text is a skeleton and does not replace legal advice.",
+    "sections": [
+      { "heading": "Controller", "body": "The controller for data processing on this website is Nekor Partners, [add address], email: hello@nekor-partners.com." },
+      { "heading": "Contact form", "body": "When you write to us through the form we process your name, email address, optionally your company and the content of your message in order to handle your enquiry. The legal basis is Art. 6(1)(b) or (f) GDPR. The data is deleted once the enquiry has been dealt with and no retention obligations apply." },
+      { "heading": "Applications and freelance profiles", "body": "If you send us a profile or an application, we process this data to assess possible assignments. It is passed on to client companies only with your prior consent, given for a specific named client (Art. 6(1)(a) GDPR). You can withdraw that consent at any time with effect for the future." },
+      { "heading": "Hosting", "body": "This website is hosted with [add provider]. On access, technically necessary server log data is processed (IP address, time, requested resource, user agent). The legal basis is Art. 6(1)(f) GDPR. A data processing agreement under Art. 28 GDPR must be in place." },
+      { "heading": "Fonts and external services", "body": "Fonts are served locally; no connection is made to external font servers. [Add any analytics or tracking services in use here — otherwise delete this paragraph.]" },
+      { "heading": "Your rights", "body": "You have the right to access, rectification, erasure, restriction of processing, data portability and objection. You may also lodge a complaint with a supervisory authority; the competent one is the Hessian Commissioner for Data Protection and Freedom of Information." }
+    ]
+  },
+  "notFound": {
+    "title": "This page does not exist",
+    "lead": "The link is out of date or the address contains a typo. The home page will get you anywhere.",
+    "cta": "Go to home page"
+  }
+}

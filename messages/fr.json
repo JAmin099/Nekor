@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "siteName": "Nekor Partners",
+    "defaultTitle": "Nekor Partners — freelances IT en placement direct",
+    "defaultDescription": "Nekor Partners place des spécialistes IT indépendants directement auprès des entreprises. Un contrat entre le client et le freelance, une commission unique, aucune marge récurrente."
+  },
+  "a11y": { "skipToContent": "Aller au contenu" },
+  "nav": {
+    "home": "Accueil",
+    "primary": "Navigation principale",
+    "language": "Choisir la langue",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "findExperts": "Trouver des experts",
+    "findProjects": "Trouver des missions",
+    "about": "À propos",
+    "blog": "Journal",
+    "careers": "Carrières",
+    "contact": "Contact",
+    "imprint": "Mentions légales",
+    "privacy": "Confidentialité"
+  },
+  "footer": {
+    "claim": "Placement de spécialistes IT indépendants. Contractualisation directe, facturation transparente.",
+    "services": "Prestations",
+    "company": "Entreprise",
+    "legal": "Informations légales",
+    "linkedin": "Nekor Partners sur LinkedIn",
+    "linkedinUrl": "https://www.linkedin.com/company/nekor-partners",
+    "email": "hello@nekor-partners.com",
+    "emailLabel": "Écrire un e-mail",
+    "copyright": "© {year} Nekor Partners",
+    "address": "Francfort-sur-le-Main, Allemagne"
+  },
+  "home": {
+    "meta": {
+      "title": "Freelances IT en placement direct",
+      "description": "Nous trouvons des spécialistes IT indépendants pour des besoins de projet précis. Le client et le freelance signent directement — nous sommes payés une seule fois pour la mise en relation."
+    },
+    "hero": {
+      "eyebrow": "Freelancing IT et ingénierie",
+      "title": "Deux côtés. <accent>Un projet.</accent>",
+      "lead": "Nous rapprochons directement les entreprises et les spécialistes IT indépendants. Le contrat de mission vous lie tous les deux — sans facturation intermédiaire, sans marge sur chaque heure.",
+      "clients": {
+        "eyebrow": "Pour les entreprises",
+        "title": "Vous cherchez du renfort",
+        "body": "Décrivez le besoin, recevez des profils qualifiés, contractez directement. Vous payez une seule fois, en cas de placement réussi.",
+        "cta": "Trouver des experts"
+      },
+      "candidates": {
+        "eyebrow": "Pour les freelances",
+        "title": "Vous cherchez une mission",
+        "body": "Votre profil ne part qu’avec votre accord. Vous négociez votre taux vous-même et facturez directement le client.",
+        "cta": "Trouver des missions"
+      }
+    },
+    "stats": {
+      "eyebrow": "Notre méthode",
+      "note": "Pas des chiffres de vitrine, mais les règles auxquelles nous nous engageons. Elles figurent dans notre convention de placement.",
+      "items": {
+        "shortlist": { "value": "48", "unit": "h", "label": "jusqu’à la première shortlist après l’entretien de cadrage" },
+        "candidates": { "value": "3", "unit": "", "label": "profils par besoin, au lieu d’un flot de CV" },
+        "upfront": { "value": "0", "unit": "€", "label": "de frais tant qu’aucun placement n’aboutit" },
+        "documented": { "value": "100", "unit": "%", "label": "d’accords documentés avant qu’un profil n’atteigne un client" }
+      }
+    },
+    "values": {
+      "eyebrow": "Fondamentaux",
+      "title": "Trois choses qui comptent",
+      "lead": "Le placement n’est pas une affaire de volume. Ce qui compte, c’est l’adéquation du profil, la solidité juridique du montage et la rapidité.",
+      "items": {
+        "technology": {
+          "title": "Technologie",
+          "body": "Nous parlons la langue du poste. Un besoin Kubernetes se traite par une discussion sur votre stack, pas par une correspondance de mots-clés."
+        },
+        "competence": {
+          "title": "Compétence",
+          "body": "Chaque profil est évalué techniquement et rencontré avant présentation. Disponibilité, taux et références sont confirmés, pas estimés."
+        },
+        "speed": {
+          "title": "Rapidité",
+          "body": "Un besoin bien qualifié fait gagner plus de temps que n’importe quelle base de données. D’où un entretien structuré au départ, plutôt qu’une requête."
+        }
+      }
+    },
+    "teaser": {
+      "eyebrow": "À propos",
+      "title": "Petite structure, contact direct",
+      "body": "Nekor Partners est un cabinet de placement indépendant basé à Francfort. Vous parlez aux fondateurs, pas à une équipe commerciale. Nous travaillons avec peu de clients à la fois, car la qualité en placement ne se met pas à l’échelle comme une newsletter.",
+      "cta": "En savoir plus"
+    },
+    "journal": { "eyebrow": "Journal", "title": "Retours de terrain", "cta": "Tous les articles" }
+  },
+  "clients": {
+    "meta": { "title": "Trouver des experts", "description": "Des freelances IT qualifiés pour des besoins précis. Contractualisation directe, commission unique, aucun coût récurrent." },
+    "hero": {
+      "eyebrow": "Pour les entreprises",
+      "title": "Des freelances que vous contractez vous-même",
+      "lead": "Vous décrivez le besoin, nous livrons une sélection courte et vérifiée. Vous signez le contrat de mission directement avec le freelance — nous sommes payés une fois, en cas de placement réussi."
+    },
+    "models": {
+      "eyebrow": "Modèles",
+      "title": "Trois façons de collaborer",
+      "lead": "Le modèle adapté dépend de votre capacité et de votre volonté de contracter directement avec des indépendants.",
+      "benefitsLabel": "Ce qui plaide pour",
+      "items": {
+        "direct": {
+          "title": "Placement direct",
+          "status": "Disponible",
+          "description": "Nous trouvons et qualifions le bon freelance. Le contrat et la facturation vous lient directement.",
+          "benefits": [
+            "Une commission unique au lieu d’une marge récurrente",
+            "Aucun frais si aucun placement n’aboutit",
+            "Vous négociez le taux et les conditions vous-même",
+            "Transparence totale sur ce que perçoit le freelance"
+          ]
+        },
+        "contracting": {
+          "title": "Contracting",
+          "status": "En préparation",
+          "description": "Vous contractez avec Nekor, Nekor contracte avec le freelance. Un interlocuteur, une facture, une facturation consolidée.",
+          "benefits": [
+            "Un seul fournisseur dans votre processus achats",
+            "Utile avec des contrats-cadres et des listes fournisseurs",
+            "Feuilles de temps et facturation gérées par nous",
+            "Pas de mise à disposition de personnel — prestations uniquement"
+          ]
+        },
+        "permanent": {
+          "title": "Recrutement permanent",
+          "status": "Sur demande",
+          "description": "Lorsqu’un besoin de projet devient un poste durable, nous plaçons également en CDI.",
+          "benefits": [
+            "Le même processus de qualification qu’en mission",
+            "Commission au succès, due à la signature",
+            "Présentation des candidats uniquement après accord explicite"
+          ]
+        }
+      }
+    },
+    "skills": {
+      "eyebrow": "Domaines",
+      "title": "Où nous cherchons",
+      "lead": "Notre réseau couvre le cloud, la plateforme, la donnée et la sécurité. Si votre besoin sort de ce périmètre, nous le disons plutôt que d’envoyer un profil au hasard.",
+      "items": [
+        "Kubernetes", "AWS", "Azure", "Terraform", "Platform Engineering", "Java", "Spring Boot", ".NET", "TypeScript", "React", "Python", "Data Engineering", "Databricks", "Snowflake", "SAP", "IAM", "ISO 27001", "Tests d’intrusion", "SRE", "CI/CD"
+      ]
+    },
+    "advantages": {
+      "items": {
+        "protected": { "title": "Les conditions d’abord", "body": "Vous ne recevez un profil identifiable qu’une fois nos conditions de placement confirmées. Cela protège les deux parties de tout malentendu sur la commission." },
+        "shortlist": { "title": "Trois, pas trente", "body": "Nous envoyons une sélection, pas une extraction de base de données. Chaque profil a été rencontré, est disponible et connaît votre besoin." },
+        "documented": { "title": "Tracé de bout en bout", "body": "Chaque accord de candidat et chaque présentation est consigné avec le client, le projet et l’horodatage — propre pour vous, propre pour nous." }
+      }
+    },
+    "testimonials": {
+      "previous": "Référence précédente",
+      "next": "Référence suivante",
+      "items": {
+        "one": { "quote": "Espace réservé : une citation client sur la collaboration viendra ici.", "name": "Ajouter une référence", "role": "Espace réservé — à remplacer ou supprimer avant la mise en ligne" },
+        "two": { "quote": "Espace réservé : une citation sur le délai de placement viendra ici.", "name": "Ajouter une référence", "role": "Espace réservé — à remplacer ou supprimer avant la mise en ligne" },
+        "three": { "quote": "Espace réservé : une citation sur la qualité des profils viendra ici.", "name": "Ajouter une référence", "role": "Espace réservé — à remplacer ou supprimer avant la mise en ligne" }
+      }
+    },
+    "cta": { "title": "Un besoin concret ?", "body": "Vingt minutes suffisent pour cadrer le rôle, la date de démarrage et le budget. Vous saurez ensuite si nous pouvons livrer.", "action": "Décrire le besoin" },
+    "journal": { "eyebrow": "Journal", "title": "Comprendre le modèle" }
+  },
+  "candidates": {
+    "meta": { "title": "Trouver des missions", "description": "Des missions pour spécialistes IT indépendants. Votre profil ne part qu’avec votre accord et vous négociez votre taux directement." },
+    "hero": {
+      "eyebrow": "Pour les freelances",
+      "title": "Votre profil ne part qu’avec votre accord",
+      "lead": "Pas d’envoi à l’aveugle, pas de taux négocié dans votre dos. Nous ne vous nommons qu’une fois que vous connaissez le client et la mission, et que vous avez donné votre accord."
+    },
+    "models": {
+      "eyebrow": "Modèles",
+      "title": "À quoi ressemble la collaboration",
+      "lead": "Dans la plupart des cas, nous vous plaçons directement chez le client. Vous restez partie au contrat ; nous nous retirons après la mise en relation.",
+      "benefitsLabel": "Ce que cela signifie pour vous",
+      "items": {
+        "direct": {
+          "title": "Placement direct",
+          "status": "Disponible",
+          "description": "Vous signez le contrat de mission directement avec le client. Notre commission est payée par le client, pas par vous.",
+          "benefits": [
+            "Votre taux vous revient intégralement",
+            "Vous facturez directement le client",
+            "Aucune commission de votre côté",
+            "Contact direct avec le décideur dès l’entretien"
+          ]
+        },
+        "contracting": {
+          "title": "Contracting",
+          "status": "En préparation",
+          "description": "Nekor est votre partenaire contractuel et facture le client. Pour vous, cela signifie un interlocuteur unique pour la facturation et le paiement.",
+          "benefits": [
+            "Une seule adresse de facturation, même sur plusieurs missions",
+            "Des délais de paiement clairs, indépendants du client final",
+            "Pas de mise à disposition de personnel",
+            "Processus de feuilles de temps géré par nous"
+          ]
+        },
+        "permanent": {
+          "title": "Poste permanent",
+          "status": "Sur demande",
+          "description": "Si vous envisagez de quitter l’indépendance, nous gardons des postes adaptés sous la main.",
+          "benefits": [
+            "Confidentiel — votre client actuel n’en saura rien",
+            "Présentation uniquement aux entreprises que vous validez",
+            "Accompagnement jusqu’à la proposition"
+          ]
+        }
+      }
+    },
+    "process": {
+      "eyebrow": "Déroulé",
+      "title": "Quatre étapes jusqu’à la mission",
+      "items": {
+        "intake": { "title": "Prise de contact", "body": "Un échange sur votre spécialité, votre taux, votre disponibilité et la part de télétravail dont vous avez besoin." },
+        "match": { "title": "Mise en correspondance", "body": "Nous ne vous contactons que si un besoin correspond vraiment. Rôle, secteur, lieu et cadre vous sont annoncés à l’avance." },
+        "release": { "title": "Votre accord", "body": "Vous décidez si nous pouvons vous présenter à ce client. Aucun profil ne part sans votre consentement documenté." },
+        "interview": { "title": "Entretien et contrat", "body": "Nous coordonnons les rendez-vous et accompagnons la négociation. Vous signez directement avec le client." }
+      }
+    },
+    "skills": {
+      "eyebrow": "Profils",
+      "title": "Qui nous plaçons",
+      "lead": "Si votre spécialité figure ici, un échange vaut la peine — même si vous êtes actuellement en mission.",
+      "items": [
+        "DevOps", "Architecture cloud", "Kubernetes", "Terraform", "Java", "TypeScript", "React", "Python", "Data Engineering", "MLOps", "SAP", "Sécurité", "IAM", "ISO 27001", "Réseaux", "Embarqué", "Automatisation QA", "Gestion de projet", "Analyse métier", "CTO de transition"
+      ]
+    },
+    "testimonials": {
+      "previous": "Témoignage précédent",
+      "next": "Témoignage suivant",
+      "items": {
+        "one": { "quote": "Espace réservé : le témoignage d’un freelance placé viendra ici.", "name": "Ajouter une référence", "role": "Espace réservé — à remplacer ou supprimer avant la mise en ligne" },
+        "two": { "quote": "Espace réservé : un témoignage sur le déroulé du placement viendra ici.", "name": "Ajouter une référence", "role": "Espace réservé — à remplacer ou supprimer avant la mise en ligne" },
+        "three": { "quote": "Espace réservé : un témoignage sur la mission viendra ici.", "name": "Ajouter une référence", "role": "Espace réservé — à remplacer ou supprimer avant la mise en ligne" }
+      }
+    },
+    "cta": { "title": "Déposer votre profil", "body": "Envoyez-nous votre spécialité, votre disponibilité et votre taux souhaité. Nous revenons vers vous quand un besoin correspond — pas plus souvent.", "action": "Envoyer le profil" }
+  },
+  "about": {
+    "meta": { "title": "À propos", "description": "Nekor Partners est un cabinet de placement indépendant pour freelances IT, basé à Francfort-sur-le-Main." },
+    "hero": { "eyebrow": "À propos", "title": "Le placement sans couche intermédiaire", "lead": "Nous avons fondé Nekor parce qu’il y a trop souvent, entre les entreprises et les freelances, une couche qui se finance surtout elle-même." },
+    "story": {
+      "eyebrow": "Contexte",
+      "title": "Pourquoi nous existons",
+      "paragraphOne": "Dans le modèle classique, le prestataire gagne sur chaque heure facturée, pendant toute la durée du projet. Sur une mission courte, cela se défend ; sur douze mois, c’est coûteux, et rares sont les parties qui savent quelle marge se trouve réellement au milieu.",
+      "paragraphTwo": "Nous faisons l’inverse : nous sommes payés une fois pour ce que nous faisons réellement — trouver la bonne personne. Ensuite, le client et le freelance travaillent directement ensemble. Cela plafonne notre activité et nous oblige à être bons sur le placement lui-même.",
+      "timeline": {
+        "founded": { "when": "2026", "what": "Création de Nekor Partners à Francfort-sur-le-Main, axée sur le placement direct." },
+        "network": { "when": "En continu", "what": "Constitution d’un réseau de spécialistes cloud, données et sécurité dans l’espace germanophone." },
+        "next": { "when": "Prochaine étape", "what": "Modèle de contracting, dès que contrats, qualification du statut, assurance et facturation seront en place." }
+      }
+    },
+    "principles": {
+      "eyebrow": "Principes",
+      "title": "Nos engagements",
+      "items": {
+        "direct": { "title": "Direct plutôt qu’intermédiaire", "body": "Lorsqu’un engagement direct est possible, nous le recommandons — même si un autre modèle nous rapporterait davantage." },
+        "consent": { "title": "Rien sans accord", "body": "Les profils ne partent qu’avec le consentement documenté du freelance, pour un client et une mission nommés." },
+        "transparency": { "title": "Chiffres ouverts", "body": "Les deux parties savent ce que nous percevons pour le placement et quand cette commission est due. Aucune majoration cachée." }
+      }
+    },
+    "team": {
+      "eyebrow": "Équipe",
+      "title": "Vous parlez aux fondateurs",
+      "lead": "Nekor est dirigée par deux fondateurs qui maîtrisent chacun l’ensemble du processus, du cadrage à la signature. Personne ne vous repasse à une équipe junior après le premier échange.",
+      "cta": "Voir les postes ouverts"
+    }
+  },
+  "careers": {
+    "meta": { "title": "Carrières", "description": "Postes ouverts chez Nekor Partners à Francfort-sur-le-Main et en télétravail." },
+    "hero": { "eyebrow": "Carrières", "title": "Travailler avec nous", "lead": "Nous sommes tôt, petits et sans structure de groupe. Celles et ceux qui nous rejoignent façonnent le processus au lieu de l’exécuter." },
+    "openings": {
+      "eyebrow": "Postes ouverts",
+      "title": "Actuellement publiés",
+      "empty": "Aucun poste n’est publié actuellement. Nous lisons tout de même les candidatures spontanées.",
+      "apply": "Postuler",
+      "speculative": "Rien qui corresponde ? Dites-nous ce que vous apporteriez — les candidatures spontanées sont les bienvenues.",
+      "types": { "fulltime": "Temps plein", "parttime": "Temps partiel", "werkstudent": "Alternance" }
+    }
+  },
+  "blog": {
+    "meta": { "title": "Journal", "description": "Articles sur le freelancing, les modèles contractuels et la conformité dans les projets IT." },
+    "hero": { "eyebrow": "Journal", "title": "Ce que la pratique nous apprend", "lead": "Des textes courts sur les modèles contractuels, le statut et les processus de recrutement — écrits pour celles et ceux qui les manient au quotidien." },
+    "all": "Tous",
+    "filterLabel": "Filtrer par catégorie",
+    "empty": "Il n’y a pas encore d’articles dans cette catégorie.",
+    "readMore": "Lire la suite",
+    "readingTime": "{minutes} min de lecture",
+    "backToOverview": "Retour à la vue d’ensemble",
+    "categories": { "market": "Marché", "compliance": "Conformité", "hiring": "Recrutement" }
+  },
+  "contact": {
+    "meta": { "title": "Contact", "description": "Décrire un besoin ou déposer votre profil — Nekor Partners, Francfort-sur-le-Main." },
+    "hero": { "eyebrow": "Contact", "title": "Dites-nous de quoi il s’agit", "lead": "Besoin de projet ou profil personnel : un message court suffit. Nous répondons en général le jour ouvré même." },
+    "form": {
+      "title": "Envoyer un message",
+      "name": "Nom",
+      "email": "E-mail",
+      "company": "Entreprise (facultatif)",
+      "message": "Message",
+      "messagePlaceholder": "Rôle, démarrage, durée, charge, part de télétravail — plus c’est précis, plus vite nous pouvons répondre.",
+      "privacy": "J’ai lu la politique de confidentialité et j’accepte que mes données soient conservées pour le traitement de ma demande.",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours",
+      "success": "Merci, votre message est bien arrivé. Nous revenons vers vous rapidement.",
+      "error": "L’envoi a échoué. Réessayez ou écrivez directement à hello@nekor-partners.com.",
+      "errors": {
+        "nameRequired": "Merci d’indiquer votre nom.",
+        "emailInvalid": "Merci d’indiquer une adresse e-mail valide.",
+        "messageTooShort": "Merci de décrire votre demande en 20 caractères au minimum.",
+        "privacyRequired": "Sans votre accord, nous ne pouvons pas traiter la demande."
+      }
+    },
+    "details": {
+      "officeLabel": "Adresse",
+      "address": "Nekor Partners\n[Rue et numéro]\n60311 Francfort-sur-le-Main\nAllemagne",
+      "reachLabel": "Nous joindre",
+      "email": "hello@nekor-partners.com",
+      "phone": "+49 69 000000",
+      "phoneHref": "+4969000000",
+      "responseLabel": "Délai de réponse",
+      "response": "Les jours ouvrés, nous répondons en général sous quatre heures, au plus tard le jour ouvré suivant."
+    }
+  },
+  "imprint": {
+    "meta": { "title": "Mentions légales", "description": "Informations légales concernant Nekor Partners." },
+    "eyebrow": "Informations légales",
+    "title": "Mentions légales",
+    "updated": "Projet — à faire valider par un avocat avant publication.",
+    "sections": [
+      { "heading": "Informations selon le § 5 DDG", "body": "Nekor Partners [forme juridique à compléter]\n[Rue et numéro]\n60311 Francfort-sur-le-Main\nAllemagne" },
+      { "heading": "Représentée par", "body": "[Indiquer les associés habilités]" },
+      { "heading": "Contact", "body": "Téléphone : [numéro à compléter]\nE-mail : hello@nekor-partners.com" },
+      { "heading": "Registre et numéro de TVA", "body": "[Tribunal et numéro d’enregistrement, le cas échéant]\nNuméro de TVA selon le § 27 a UStG : [à compléter]" },
+      { "heading": "Responsable éditorial", "body": "[Nom et adresse de la personne responsable]" },
+      { "heading": "Règlement des litiges", "body": "Nous ne sommes ni disposés ni tenus de participer à une procédure de règlement des litiges devant un organe de médiation de la consommation." }
+    ]
+  },
+  "privacy": {
+    "meta": { "title": "Politique de confidentialité", "description": "Informations sur le traitement des données personnelles chez Nekor Partners." },
+    "eyebrow": "Informations légales",
+    "title": "Politique de confidentialité",
+    "updated": "Projet — ce texte est une trame et ne remplace pas un conseil juridique.",
+    "sections": [
+      { "heading": "Responsable du traitement", "body": "Le responsable du traitement des données sur ce site est Nekor Partners, [adresse à compléter], e-mail : hello@nekor-partners.com." },
+      { "heading": "Formulaire de contact", "body": "Lorsque vous nous écrivez via le formulaire, nous traitons votre nom, votre adresse e-mail, éventuellement votre entreprise et le contenu de votre message afin de traiter votre demande. La base légale est l’art. 6, § 1, b ou f du RGPD. Les données sont supprimées une fois la demande traitée, sous réserve d’obligations de conservation." },
+      { "heading": "Candidatures et profils freelance", "body": "Si vous nous transmettez un profil ou une candidature, nous traitons ces données pour évaluer d’éventuelles missions. Leur transmission à des entreprises clientes n’a lieu qu’avec votre consentement préalable, donné pour un client nommément désigné (art. 6, § 1, a du RGPD). Vous pouvez retirer ce consentement à tout moment pour l’avenir." },
+      { "heading": "Hébergement", "body": "Ce site est hébergé chez [prestataire à compléter]. Lors de la consultation, des données de journal techniquement nécessaires sont traitées (adresse IP, horodatage, ressource demandée, agent utilisateur). La base légale est l’art. 6, § 1, f du RGPD. Un contrat de sous-traitance au sens de l’art. 28 du RGPD doit être conclu." },
+      { "heading": "Polices et services externes", "body": "Les polices sont servies localement ; aucune connexion n’est établie vers des serveurs de polices externes. [Compléter ici les éventuels outils d’analyse ou de suivi — sinon supprimer ce paragraphe.]" },
+      { "heading": "Vos droits", "body": "Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation du traitement, de portabilité et d’opposition. Vous pouvez également introduire une réclamation auprès d’une autorité de contrôle ; l’autorité compétente est le Commissaire à la protection des données du Land de Hesse." }
+    ]
+  },
+  "notFound": {
+    "title": "Cette page n’existe pas",
+    "lead": "Le lien est obsolète ou l’adresse comporte une faute de frappe. La page d’accueil vous mènera partout.",
+    "cta": "Aller à l’accueil"
+  }
+}

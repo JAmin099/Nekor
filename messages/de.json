@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "siteName": "Nekor Partners",
+    "defaultTitle": "Nekor Partners — IT-Freelancer direkt vermittelt",
+    "defaultDescription": "Nekor Partners vermittelt selbstständige IT-Spezialisten direkt an Unternehmen. Ein Vertrag zwischen Kunde und Freelancer, eine einmalige Vermittlungsgebühr, keine laufende Marge."
+  },
+  "a11y": {
+    "skipToContent": "Zum Inhalt springen"
+  },
+  "nav": {
+    "home": "Startseite",
+    "primary": "Hauptnavigation",
+    "language": "Sprache wählen",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "findExperts": "Expert:innen finden",
+    "findProjects": "Projekte finden",
+    "about": "Über uns",
+    "blog": "Journal",
+    "careers": "Karriere",
+    "contact": "Kontakt",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "footer": {
+    "claim": "Vermittlung von selbstständigen IT-Spezialisten. Direkt kontrahiert, transparent abgerechnet.",
+    "services": "Leistungen",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "linkedin": "Nekor Partners auf LinkedIn",
+    "linkedinUrl": "https://www.linkedin.com/company/nekor-partners",
+    "email": "hello@nekor-partners.com",
+    "emailLabel": "E-Mail schreiben",
+    "copyright": "© {year} Nekor Partners",
+    "address": "Frankfurt am Main, Deutschland"
+  },
+  "home": {
+    "meta": {
+      "title": "IT-Freelancer direkt vermittelt",
+      "description": "Wir finden selbstständige IT-Spezialisten für konkrete Projektbedarfe. Kunde und Freelancer schließen den Vertrag direkt — wir werden einmal für die Vermittlung bezahlt."
+    },
+    "hero": {
+      "eyebrow": "IT- und Engineering-Freelancing",
+      "title": "Zwei Seiten. <accent>Ein Projekt.</accent>",
+      "lead": "Wir bringen Unternehmen und selbstständige IT-Spezialisten direkt zusammen. Der Projektvertrag läuft zwischen Ihnen beiden — ohne Zwischenrechnung, ohne laufende Marge auf jede Stunde.",
+      "clients": {
+        "eyebrow": "Für Unternehmen",
+        "title": "Sie suchen Verstärkung",
+        "body": "Bedarf schildern, qualifizierte Profile erhalten, direkt beauftragen. Sie zahlen einmalig bei erfolgreicher Besetzung.",
+        "cta": "Expert:innen finden"
+      },
+      "candidates": {
+        "eyebrow": "Für Freelancer",
+        "title": "Sie suchen ein Projekt",
+        "body": "Ihr Profil geht erst raus, wenn Sie es freigeben. Sie verhandeln Ihre Rate selbst und rechnen direkt mit dem Kunden ab.",
+        "cta": "Projekte finden"
+      }
+    },
+    "stats": {
+      "eyebrow": "Wie wir arbeiten",
+      "note": "Keine Vanity-Kennzahlen, sondern die Regeln, an denen wir uns messen lassen. Sie stehen so in unserer Vermittlungsvereinbarung.",
+      "items": {
+        "shortlist": { "value": "48", "unit": "h", "label": "bis zur ersten Shortlist nach dem Bedarfsgespräch" },
+        "candidates": { "value": "3", "unit": "", "label": "Profile pro Bedarf statt einer Flut aus Lebensläufen" },
+        "upfront": { "value": "0", "unit": "€", "label": "Kosten, solange keine Beauftragung zustande kommt" },
+        "documented": { "value": "100", "unit": "%", "label": "dokumentierte Freigaben, bevor ein Profil den Kunden erreicht" }
+      }
+    },
+    "values": {
+      "eyebrow": "Grundlage",
+      "title": "Drei Dinge, auf die es ankommt",
+      "lead": "Vermittlung ist kein Volumengeschäft. Was zählt, ist ob das Profil zur Aufgabe passt, ob es rechtlich sauber ist und ob es schnell genug da ist.",
+      "items": {
+        "technology": {
+          "title": "Technologie",
+          "body": "Wir sprechen die Sprache der Rolle. Ein Kubernetes-Bedarf wird nicht mit einem Keyword-Treffer beantwortet, sondern mit einem Gespräch über Ihren Stack."
+        },
+        "competence": {
+          "title": "Kompetenz",
+          "body": "Jedes Profil wird vor der Vorstellung fachlich geprüft und persönlich gesprochen. Verfügbarkeit, Rate und Referenzen sind bestätigt, nicht geschätzt."
+        },
+        "speed": {
+          "title": "Tempo",
+          "body": "Ein sauber qualifizierter Bedarf spart mehr Zeit als jede Datenbank. Deshalb steht am Anfang ein strukturiertes Gespräch, nicht eine Suchanfrage."
+        }
+      }
+    },
+    "teaser": {
+      "eyebrow": "Über uns",
+      "title": "Klein, direkt, ansprechbar",
+      "body": "Nekor Partners ist ein inhabergeführtes Vermittlungshaus aus Frankfurt. Sie sprechen mit den Gründern, nicht mit einem Account-Team. Wir arbeiten mit wenigen Kunden gleichzeitig, weil sich Qualität in der Vermittlung nicht skalieren lässt wie ein Newsletter.",
+      "cta": "Mehr über Nekor"
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "Aus der Praxis",
+      "cta": "Alle Beiträge"
+    }
+  },
+  "clients": {
+    "meta": {
+      "title": "Expert:innen finden",
+      "description": "Qualifizierte IT-Freelancer für konkrete Projektbedarfe. Direkt kontrahiert, einmalige Vermittlungsgebühr, keine laufenden Kosten."
+    },
+    "hero": {
+      "eyebrow": "Für Unternehmen",
+      "title": "Freelancer, die Sie selbst beauftragen",
+      "lead": "Sie schildern uns den Bedarf, wir liefern eine kurze, geprüfte Auswahl. Den Projektvertrag schließen Sie direkt mit dem Freelancer — wir werden einmalig bei erfolgreicher Beauftragung bezahlt."
+    },
+    "models": {
+      "eyebrow": "Modelle",
+      "title": "Drei Wege der Zusammenarbeit",
+      "lead": "Welches Modell passt, hängt davon ab, ob Sie selbst mit Selbstständigen kontrahieren können und wollen.",
+      "benefitsLabel": "Das spricht dafür",
+      "items": {
+        "direct": {
+          "title": "Direktvermittlung",
+          "status": "Verfügbar",
+          "description": "Wir finden und qualifizieren den passenden Freelancer. Vertrag und Abrechnung laufen direkt zwischen Ihnen und dem Freelancer.",
+          "benefits": [
+            "Einmalige Erfolgsgebühr statt laufender Marge",
+            "Keine Kosten, wenn keine Beauftragung zustande kommt",
+            "Rate und Konditionen verhandeln Sie selbst",
+            "Volle Transparenz darüber, was der Freelancer erhält"
+          ]
+        },
+        "contracting": {
+          "title": "Contracting",
+          "status": "In Vorbereitung",
+          "description": "Sie beauftragen Nekor, Nekor beauftragt den Freelancer. Ein Vertragspartner, eine Rechnung, konsolidierte Abrechnung.",
+          "benefits": [
+            "Nur ein Lieferant in Ihrem Einkaufsprozess",
+            "Sinnvoll bei Rahmenverträgen und Lieferantenlisten",
+            "Timesheets und Abrechnung laufen über uns",
+            "Keine Arbeitnehmerüberlassung — reine Dienst- und Werkleistung"
+          ]
+        },
+        "permanent": {
+          "title": "Festanstellung",
+          "status": "Auf Anfrage",
+          "description": "Wenn aus dem Projektbedarf eine dauerhafte Rolle wird, vermitteln wir auch in Festanstellung.",
+          "benefits": [
+            "Derselbe Qualifizierungsprozess wie im Projektgeschäft",
+            "Erfolgsgebühr, fällig bei Vertragsunterschrift",
+            "Kandidatenvorstellung nur nach ausdrücklicher Freigabe"
+          ]
+        }
+      }
+    },
+    "skills": {
+      "eyebrow": "Schwerpunkte",
+      "title": "Wo wir suchen",
+      "lead": "Unser Netzwerk liegt in Cloud, Plattform, Daten und Security. Wenn Ihr Bedarf daneben liegt, sagen wir das offen, statt irgendein Profil zu schicken.",
+      "items": [
+        "Kubernetes", "AWS", "Azure", "Terraform", "Platform Engineering", "Java", "Spring Boot", ".NET", "TypeScript", "React", "Python", "Data Engineering", "Databricks", "Snowflake", "SAP", "IAM", "ISO 27001", "Penetration Testing", "SRE", "CI/CD"
+      ]
+    },
+    "advantages": {
+      "items": {
+        "protected": {
+          "title": "Konditionen zuerst",
+          "body": "Ein identifizierbares Profil erhalten Sie erst, wenn unsere Vermittlungskonditionen bestätigt sind. Das schützt beide Seiten vor Missverständnissen über die Gebühr."
+        },
+        "shortlist": {
+          "title": "Drei statt dreißig",
+          "body": "Wir schicken eine Auswahl, keine Datenbankabfrage. Jedes Profil ist gesprochen, verfügbar und kennt Ihren Bedarf."
+        },
+        "documented": {
+          "title": "Nachvollziehbar dokumentiert",
+          "body": "Jede Kandidatenfreigabe und jede Vorstellung wird mit Kunde, Projekt und Zeitstempel festgehalten — sauber für Sie, sauber für uns."
+        }
+      }
+    },
+    "testimonials": {
+      "previous": "Vorherige Referenz",
+      "next": "Nächste Referenz",
+      "items": {
+        "one": {
+          "quote": "Platzhalter: Hier steht später ein Zitat eines Kunden zur Zusammenarbeit.",
+          "name": "Referenz einsetzen",
+          "role": "Platzhalter — vor Livegang ersetzen oder Sektion entfernen"
+        },
+        "two": {
+          "quote": "Platzhalter: Hier steht später ein Zitat zur Geschwindigkeit der Besetzung.",
+          "name": "Referenz einsetzen",
+          "role": "Platzhalter — vor Livegang ersetzen oder Sektion entfernen"
+        },
+        "three": {
+          "quote": "Platzhalter: Hier steht später ein Zitat zur Qualität der vorgestellten Profile.",
+          "name": "Referenz einsetzen",
+          "role": "Platzhalter — vor Livegang ersetzen oder Sektion entfernen"
+        }
+      }
+    },
+    "cta": {
+      "title": "Sie haben einen konkreten Bedarf?",
+      "body": "Ein Gespräch von 20 Minuten reicht, um Rolle, Start und Budget zu klären. Danach wissen Sie, ob wir liefern können.",
+      "action": "Bedarf schildern"
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "Hintergrund zum Modell"
+    }
+  },
+  "candidates": {
+    "meta": {
+      "title": "Projekte finden",
+      "description": "Projekte für selbstständige IT-Spezialisten. Ihr Profil geht nur mit Ihrer Freigabe raus, Ihre Rate verhandeln Sie direkt mit dem Kunden."
+    },
+    "hero": {
+      "eyebrow": "Für Freelancer",
+      "title": "Ihr Profil geht nur raus, wenn Sie es freigeben",
+      "lead": "Kein Blindversand, keine Rate hinter Ihrem Rücken. Wir stellen Sie namentlich erst vor, wenn Sie Kunde und Projekt kennen und zugestimmt haben."
+    },
+    "models": {
+      "eyebrow": "Modelle",
+      "title": "So kann die Zusammenarbeit aussehen",
+      "lead": "In den meisten Fällen vermitteln wir Sie direkt an den Kunden. Sie bleiben Vertragspartner, wir treten nach der Vermittlung zurück.",
+      "benefitsLabel": "Was das für Sie heißt",
+      "items": {
+        "direct": {
+          "title": "Direktvermittlung",
+          "status": "Verfügbar",
+          "description": "Sie schließen den Projektvertrag direkt mit dem Kunden. Unsere Gebühr zahlt der Kunde, nicht Sie.",
+          "benefits": [
+            "Ihre Rate geht ungekürzt an Sie",
+            "Sie rechnen direkt mit dem Kunden ab",
+            "Keine Vermittlungsgebühr auf Ihrer Seite",
+            "Direkter Draht zum Entscheider ab dem Interview"
+          ]
+        },
+        "contracting": {
+          "title": "Contracting",
+          "status": "In Vorbereitung",
+          "description": "Nekor ist Ihr Vertragspartner und rechnet gegenüber dem Kunden ab. Für Sie bedeutet das einen festen Ansprechpartner für Abrechnung und Zahlung.",
+          "benefits": [
+            "Eine Rechnungsadresse, auch bei mehreren Einsätzen",
+            "Klare Zahlungsziele, unabhängig vom Endkunden",
+            "Keine Arbeitnehmerüberlassung",
+            "Timesheet-Prozess über uns"
+          ]
+        },
+        "permanent": {
+          "title": "Festanstellung",
+          "status": "Auf Anfrage",
+          "description": "Wenn Sie perspektivisch aus der Selbstständigkeit wechseln möchten, halten wir passende Rollen bereit.",
+          "benefits": [
+            "Vertraulich — Ihr aktueller Kunde erfährt nichts",
+            "Vorstellung nur bei Unternehmen, die Sie freigeben",
+            "Begleitung bis zum Vertragsangebot"
+          ]
+        }
+      }
+    },
+    "process": {
+      "eyebrow": "Ablauf",
+      "title": "Vier Schritte bis zum Projekt",
+      "items": {
+        "intake": {
+          "title": "Kennenlernen",
+          "body": "Ein Gespräch über Ihren Schwerpunkt, Ihre Rate, Ihre Verfügbarkeit und den Remote-Anteil, den Sie brauchen."
+        },
+        "match": {
+          "title": "Abgleich",
+          "body": "Wir melden uns nur, wenn ein Bedarf wirklich passt. Sie bekommen Rolle, Branche, Ort und Rahmen vorab genannt."
+        },
+        "release": {
+          "title": "Freigabe",
+          "body": "Sie entscheiden, ob wir Sie bei diesem Kunden vorstellen dürfen. Ohne Ihre dokumentierte Zustimmung geht kein Profil raus."
+        },
+        "interview": {
+          "title": "Interview und Vertrag",
+          "body": "Wir koordinieren Termine und begleiten die Verhandlung. Den Vertrag schließen Sie direkt mit dem Kunden."
+        }
+      }
+    },
+    "skills": {
+      "eyebrow": "Profile",
+      "title": "Wen wir vermitteln",
+      "lead": "Wenn Ihr Schwerpunkt hier auftaucht, lohnt sich ein Gespräch — auch wenn Sie gerade im Projekt sind.",
+      "items": [
+        "DevOps", "Cloud Architecture", "Kubernetes", "Terraform", "Java", "TypeScript", "React", "Python", "Data Engineering", "MLOps", "SAP", "Security Engineering", "IAM", "ISO 27001", "Netzwerk", "Embedded", "QA Automation", "Projektleitung", "Business Analyse", "Interim CTO"
+      ]
+    },
+    "testimonials": {
+      "previous": "Vorherige Stimme",
+      "next": "Nächste Stimme",
+      "items": {
+        "one": {
+          "quote": "Platzhalter: Hier steht später ein Zitat einer vermittelten Freelancerin.",
+          "name": "Referenz einsetzen",
+          "role": "Platzhalter — vor Livegang ersetzen oder Sektion entfernen"
+        },
+        "two": {
+          "quote": "Platzhalter: Hier steht später ein Zitat zum Ablauf der Vermittlung.",
+          "name": "Referenz einsetzen",
+          "role": "Platzhalter — vor Livegang ersetzen oder Sektion entfernen"
+        },
+        "three": {
+          "quote": "Platzhalter: Hier steht später ein Zitat zur Zusammenarbeit im Projekt.",
+          "name": "Referenz einsetzen",
+          "role": "Platzhalter — vor Livegang ersetzen oder Sektion entfernen"
+        }
+      }
+    },
+    "cta": {
+      "title": "Profil hinterlegen",
+      "body": "Schicken Sie uns Schwerpunkt, Verfügbarkeit und Wunschrate. Wir melden uns, wenn ein Bedarf passt — nicht öfter.",
+      "action": "Profil senden"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Über uns",
+      "description": "Nekor Partners ist ein inhabergeführtes Vermittlungshaus für IT-Freelancer aus Frankfurt am Main."
+    },
+    "hero": {
+      "eyebrow": "Über uns",
+      "title": "Vermittlung ohne Zwischenschicht",
+      "lead": "Wir haben Nekor gegründet, weil zwischen Unternehmen und Freelancern zu oft eine Ebene sitzt, die vor allem sich selbst finanziert."
+    },
+    "story": {
+      "eyebrow": "Hintergrund",
+      "title": "Warum es uns gibt",
+      "paragraphOne": "Im klassischen Modell verdient der Dienstleister an jeder abgerechneten Stunde mit — über die gesamte Projektlaufzeit. Für kurze Einsätze ist das vertretbar, über zwölf Monate ist es teuer, und beide Seiten wissen selten, wie viel Marge tatsächlich dazwischen liegt.",
+      "paragraphTwo": "Wir machen es anders herum: Wir werden einmal für das bezahlt, was wir tatsächlich leisten — den passenden Menschen finden. Danach arbeiten Kunde und Freelancer direkt miteinander. Das begrenzt unser Geschäft und zwingt uns dazu, in der Vermittlung gut zu sein.",
+      "timeline": {
+        "founded": { "when": "2026", "what": "Gründung von Nekor Partners in Frankfurt am Main, Fokus auf Direktvermittlung." },
+        "network": { "when": "Laufend", "what": "Aufbau eines Netzwerks aus Cloud-, Daten- und Security-Spezialisten im deutschsprachigen Raum." },
+        "next": { "when": "Nächster Schritt", "what": "Contracting-Modell, sobald Verträge, Statusprüfung, Versicherung und Abrechnung vollständig stehen." }
+      }
+    },
+    "principles": {
+      "eyebrow": "Prinzipien",
+      "title": "Woran wir uns halten",
+      "items": {
+        "direct": {
+          "title": "Direkt statt dazwischen",
+          "body": "Wo eine direkte Beauftragung möglich ist, empfehlen wir sie — auch wenn ein anderes Modell für uns lukrativer wäre."
+        },
+        "consent": {
+          "title": "Nichts ohne Freigabe",
+          "body": "Profile gehen nur mit dokumentierter Zustimmung des Freelancers raus, für einen benannten Kunden und ein benanntes Projekt."
+        },
+        "transparency": {
+          "title": "Offene Zahlen",
+          "body": "Beide Seiten wissen, was wir für die Vermittlung bekommen und wann diese Gebühr fällig wird. Keine versteckten Aufschläge."
+        }
+      }
+    },
+    "team": {
+      "eyebrow": "Team",
+      "title": "Sie sprechen mit den Gründern",
+      "lead": "Nekor wird von zwei Gründern geführt, die beide den gesamten Prozess von der Bedarfsaufnahme bis zur Beauftragung selbst durchführen. Kein Weiterreichen an ein Junior-Team nach dem Erstgespräch.",
+      "cta": "Offene Stellen ansehen"
+    }
+  },
+  "careers": {
+    "meta": {
+      "title": "Karriere",
+      "description": "Offene Stellen bei Nekor Partners in Frankfurt am Main und remote."
+    },
+    "hero": {
+      "eyebrow": "Karriere",
+      "title": "Bei uns arbeiten",
+      "lead": "Wir sind früh dran, klein und ohne Konzernstruktur. Wer hier anfängt, gestaltet den Prozess mit, statt ihn abzuarbeiten."
+    },
+    "openings": {
+      "eyebrow": "Offene Stellen",
+      "title": "Aktuell ausgeschrieben",
+      "empty": "Aktuell sind keine Stellen ausgeschrieben. Initiativbewerbungen lesen wir trotzdem.",
+      "apply": "Bewerben",
+      "speculative": "Keine passende Stelle dabei? Schreiben Sie uns, womit Sie uns weiterbringen würden — Initiativbewerbungen sind bei uns ausdrücklich willkommen.",
+      "types": {
+        "fulltime": "Vollzeit",
+        "parttime": "Teilzeit",
+        "werkstudent": "Werkstudium"
+      }
+    }
+  },
+  "blog": {
+    "meta": {
+      "title": "Journal",
+      "description": "Beiträge zu Freelancing, Vertragsmodellen und Compliance im IT-Projektgeschäft."
+    },
+    "hero": {
+      "eyebrow": "Journal",
+      "title": "Was wir aus der Praxis lernen",
+      "lead": "Kurze Beiträge zu Vertragsmodellen, Statusfragen und Besetzungsprozessen — geschrieben für Menschen, die damit tatsächlich arbeiten."
+    },
+    "all": "Alle",
+    "filterLabel": "Nach Kategorie filtern",
+    "empty": "In dieser Kategorie gibt es noch keine Beiträge.",
+    "readMore": "Weiterlesen",
+    "readingTime": "{minutes} Min. Lesezeit",
+    "backToOverview": "Zurück zur Übersicht",
+    "categories": {
+      "market": "Markt",
+      "compliance": "Compliance",
+      "hiring": "Besetzung"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Kontakt",
+      "description": "Bedarf schildern oder Profil hinterlegen — Nekor Partners, Frankfurt am Main."
+    },
+    "hero": {
+      "eyebrow": "Kontakt",
+      "title": "Sagen Sie uns, worum es geht",
+      "lead": "Ob Projektbedarf oder eigenes Profil: Eine kurze Nachricht reicht. Wir melden uns in der Regel am selben Werktag."
+    },
+    "form": {
+      "title": "Nachricht senden",
+      "name": "Name",
+      "email": "E-Mail",
+      "company": "Unternehmen (optional)",
+      "message": "Nachricht",
+      "messagePlaceholder": "Rolle, Start, Dauer, Auslastung, Remote-Anteil — je konkreter, desto schneller können wir antworten.",
+      "privacy": "Ich habe die Datenschutzerklärung gelesen und bin damit einverstanden, dass meine Angaben zur Bearbeitung meiner Anfrage gespeichert werden.",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet",
+      "success": "Danke, Ihre Nachricht ist angekommen. Wir melden uns kurzfristig.",
+      "error": "Das Senden hat nicht geklappt. Bitte versuchen Sie es erneut oder schreiben Sie direkt an hello@nekor-partners.com.",
+      "errors": {
+        "nameRequired": "Bitte geben Sie Ihren Namen an.",
+        "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
+        "messageTooShort": "Bitte beschreiben Sie Ihr Anliegen in mindestens 20 Zeichen.",
+        "privacyRequired": "Ohne Ihre Zustimmung können wir die Anfrage nicht bearbeiten."
+      }
+    },
+    "details": {
+      "officeLabel": "Standort",
+      "address": "Nekor Partners\n[Straße und Hausnummer]\n60311 Frankfurt am Main\nDeutschland",
+      "reachLabel": "Direkt erreichbar",
+      "email": "hello@nekor-partners.com",
+      "phone": "+49 69 000000",
+      "phoneHref": "+4969000000",
+      "responseLabel": "Reaktionszeit",
+      "response": "Anfragen beantworten wir werktags in der Regel innerhalb von vier Stunden, spätestens am folgenden Werktag."
+    }
+  },
+  "imprint": {
+    "meta": {
+      "title": "Impressum",
+      "description": "Angaben gemäß § 5 DDG für Nekor Partners."
+    },
+    "eyebrow": "Rechtliches",
+    "title": "Impressum",
+    "updated": "Entwurf — vor Veröffentlichung anwaltlich prüfen lassen.",
+    "sections": [
+      {
+        "heading": "Angaben gemäß § 5 DDG",
+        "body": "Nekor Partners [Rechtsform ergänzen]\n[Straße und Hausnummer]\n60311 Frankfurt am Main\nDeutschland"
+      },
+      {
+        "heading": "Vertreten durch",
+        "body": "[Namen der vertretungsberechtigten Gesellschafter eintragen]"
+      },
+      {
+        "heading": "Kontakt",
+        "body": "Telefon: [Nummer eintragen]\nE-Mail: hello@nekor-partners.com"
+      },
+      {
+        "heading": "Registereintrag und Umsatzsteuer-ID",
+        "body": "[Registergericht und Registernummer, sofern vorhanden]\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a UStG: [ID eintragen]"
+      },
+      {
+        "heading": "Redaktionell verantwortlich",
+        "body": "[Name und Anschrift der verantwortlichen Person eintragen]"
+      },
+      {
+        "heading": "Streitbeilegung",
+        "body": "Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+      }
+    ]
+  },
+  "privacy": {
+    "meta": {
+      "title": "Datenschutzerklärung",
+      "description": "Informationen zur Verarbeitung personenbezogener Daten bei Nekor Partners."
+    },
+    "eyebrow": "Rechtliches",
+    "title": "Datenschutzerklärung",
+    "updated": "Entwurf — dieser Text ist ein Gerüst und ersetzt keine Rechtsberatung.",
+    "sections": [
+      {
+        "heading": "Verantwortlicher",
+        "body": "Verantwortlich für die Datenverarbeitung auf dieser Website ist Nekor Partners, [Anschrift eintragen], E-Mail: hello@nekor-partners.com."
+      },
+      {
+        "heading": "Kontaktformular",
+        "body": "Wenn Sie uns über das Formular schreiben, verarbeiten wir Name, E-Mail-Adresse, optional Ihr Unternehmen sowie den Inhalt Ihrer Nachricht, um Ihre Anfrage zu bearbeiten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b bzw. lit. f DSGVO. Die Daten werden gelöscht, sobald die Anfrage abschließend bearbeitet ist und keine Aufbewahrungspflichten entgegenstehen."
+      },
+      {
+        "heading": "Bewerbungen und Freelancer-Profile",
+        "body": "Übermitteln Sie uns ein Profil oder eine Bewerbung, verarbeiten wir diese Daten zur Prüfung möglicher Einsätze. Eine Weitergabe an Kundenunternehmen erfolgt ausschließlich nach Ihrer vorherigen, auf den konkreten Kunden bezogenen Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Diese Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen."
+      },
+      {
+        "heading": "Hosting",
+        "body": "Diese Website wird bei [Anbieter eintragen] gehostet. Beim Aufruf werden technisch notwendige Server-Logdaten verarbeitet (IP-Adresse, Zeitpunkt, abgerufene Ressource, User-Agent). Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Ein Auftragsverarbeitungsvertrag nach Art. 28 DSGVO ist abzuschließen."
+      },
+      {
+        "heading": "Schriften und externe Dienste",
+        "body": "Schriften werden lokal ausgeliefert, es findet keine Verbindung zu externen Font-Servern statt. [Weitere eingesetzte Dienste wie Analyse- oder Tracking-Tools hier ergänzen — sonst diesen Absatz streichen.]"
+      },
+      {
+        "heading": "Ihre Rechte",
+        "body": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch. Außerdem können Sie sich bei einer Datenschutzaufsichtsbehörde beschweren, zuständig ist der Hessische Beauftragte für Datenschutz und Informationsfreiheit."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Diese Seite gibt es nicht",
+    "lead": "Der Link ist veraltet oder die Adresse enthält einen Tippfehler. Von der Startseite kommen Sie überall hin.",
+    "cta": "Zur Startseite"
+  }
+}

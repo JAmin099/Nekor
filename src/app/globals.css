@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-ink text-bone font-sans;
+  }
+
+  ::selection {
+    @apply bg-copper text-ink;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-copper ring-offset-2 ring-offset-ink;
+  }
+
+  .on-bone :focus-visible {
+    @apply ring-offset-bone;
+  }
+}
+
+@layer components {
+  /* The signature: a copper vertical rule, taken from the stem of the N. */
+  .stem {
+    @apply block w-px bg-copper origin-top;
+  }
+
+  .link-underline {
+    @apply relative inline-flex items-center gap-2 transition-colors duration-200;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 300ms cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+
+  .link-underline:hover,
+  .link-underline:focus-visible {
+    background-size: 100% 1px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
