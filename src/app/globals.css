@@ -9,6 +9,7 @@
 
   html {
     -webkit-font-smoothing: antialiased;
+    font-family: "ss01", sans-serif;
     scroll-behavior: smooth;
   }
 
